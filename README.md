@@ -63,9 +63,3 @@ The pilot program has proven that the **P**ython-**A**utomated **E**lection **A*
 **Example Code: Unique Candidate Identification**             |  **Example Code: Geographic Identification**
 :-------------------------:|:-------------------------:
 ![](https://github.com/Felrashed/Election_Analysis/blob/main/Resources/code_example.PNG)  |  ![](https://github.com/Felrashed/Election_Analysis/blob/main/Resources/code_county.PNG)
-
-## Final Product
-
-**PyPoll: A Visual Example Of The Working Code**             |  
-:-----------------------------------------------------------------------------------------:|
-![](https://github.com/Felrashed/Election_Analysis/blob/main/Resources/Full_Example_Gif.gif)  |
