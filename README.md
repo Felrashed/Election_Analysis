@@ -66,4 +66,4 @@ The pilot program has proven that the **P**ython-**A**utomated **E**lection **A*
 
 **PyPoll: A Visual Example Of The Working Code**             |  
 :-----------------------------------------------------------------------------------------:|
-![](https://github.com/Felrashed/Election_Analysis/blob/main/PyPoll_Challenge.py%20-%20Election_Analysis%20-%20Visual%20Studio%20Code%202021-03-14%2019-06-22.mp4)  |
+![](https://github.com/Felrashed/Election_Analysis/blob/main/Resources/Full_Example_Gif.gif)  |
